@@ -38,7 +38,7 @@ h1, h2, h3, h4, h5, h6 {
 #page-home {
   height: 100vh;
   background: url('../assets/home-background.svg') no-repeat;
-  background-position: 35vw bottom;
+  background-position: 40vw bottom;
 }
 
 #page-home .content {
