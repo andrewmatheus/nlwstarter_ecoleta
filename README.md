@@ -60,6 +60,9 @@ LiveServer in index.html
 - [yarn](https://yarnpkg.com/)
 - [LiveServer](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 - [VS Code](https://code.visualstudio.com/)
+- [express](https://expressjs.com/)
+- [nodemon](https://nodemon.io/)
+- [nunjucks](https://mozilla.github.io/nunjucks/) templateEngine
 
 ...
   
