@@ -1,4 +1,4 @@
-![EcoletaDashboard](https://github.com/andrewmatheus/nlwstarter_ecoleta/blob/master/EcoletaStarter.png)
+![EcoletaGif](https://github.com/andrewmatheus/nlwstarter_ecoleta/blob/master/EcoletaStart.git)
 
 <h1 align="center">
   Ecoleta: NextLevelWeek trail started
@@ -63,6 +63,7 @@ LiveServer in index.html
 - [express](https://expressjs.com/)
 - [nodemon](https://nodemon.io/)
 - [nunjucks](https://mozilla.github.io/nunjucks/) templateEngine
+- [sqlite3](https://www.npmjs.com/package/sqlite3)
 
 ...
   
