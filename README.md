@@ -1,4 +1,4 @@
-![EcoletaGif](https://github.com/andrewmatheus/nlwstarter_ecoleta/blob/master/EcoletaStart.git)
+![EcoletaGif](https://github.com/andrewmatheus/nlwstarter_ecoleta/blob/master/EcoletaStart.gif)
 
 <h1 align="center">
   Ecoleta: NextLevelWeek trail started
