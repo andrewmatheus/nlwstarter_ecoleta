@@ -50,9 +50,16 @@ $ cd nlwstarter_ecoleta
 
 ### Running
 
-> Localhost Web
+> Install Dependencies
+```bash
+  npm install
+```
 
-LiveServer in index.html
+> Localhost Server
+
+```bash
+  npm run dev  
+```
 
 ## :hammer: Built With
 
